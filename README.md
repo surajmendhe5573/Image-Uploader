@@ -5,7 +5,7 @@ The Image Uploader website allows users to easily upload and manage their images
 
 ### Clone this project
 ```
-git clone https://github.com/surajmendhe5573/CRUDify.git
+git clone https://github.com/surajmendhe5573/Image-Uploader.git
 ```
 
 ### Install following dependencies
