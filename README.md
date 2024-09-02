@@ -1,5 +1,5 @@
 # Image Uploader Website
-The Image Uploader website allows users to easily upload and manage their images online.
+The Image Uploader website allows users to easily upload and manage their images online
 
 ## Setup this Project
 
